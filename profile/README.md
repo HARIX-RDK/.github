@@ -12,6 +12,7 @@ After that, you can find our repositories here:
 
 *  [HARIX RDK](https://github.com/orgs/HARIX-RDK/dashboard)
 *  [HARIX RCU](https://github.com/orgs/HARIX-RDK/dashboard)
-  
+*  [HARIX Zhiyoufy](https://github.com/orgs/HARIX-RDK/dashboard)
+*    
 (Note that you must be signed into GitHub for these links to work.)
 
